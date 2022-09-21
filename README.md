@@ -1,3 +1,3 @@
 # TA 1 - Programación Concurrente
 
-Repositorio creado para realizar las tareas solicitadas en el curso de Programación Concurrente.
+![](https://github.com/aelvismorales/TA_PrograConcurrente/blob/main/Assets/upc_logo.png)
