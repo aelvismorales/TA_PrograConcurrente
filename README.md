@@ -47,7 +47,7 @@ El utilizar este tipo de datos simplifica los sistemas de almacenamiento de dato
 
 **Conceptos Teóricos aplicados para el desarrollo de Editores de Texto en Línea:**
 * **Funciones de transformación:** Estas funciones transforman las operaciones para que termine con secuencias de operaciones que terminarán en el mismo resultado.
-![] (https://www.aha.io/1c4199875214246383d366a8a1d96ab5/transform-lower-right.png)
+![](https://www.aha.io/1c4199875214246383d366a8a1d96ab5/transform-lower-right.png)
 
 * **Cursor:** Si el documento es una lista de cosas, el cursor es una posición en esa matriz
 ![](https://www.aha.io/2580497c48afc8f4e42e7c26937c5ae5/cursor-position-1.png)
