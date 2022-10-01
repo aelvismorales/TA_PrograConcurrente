@@ -72,4 +72,5 @@ Strickland, J. (s.f). How google docs works. Recuperado de [https://computer.how
 Weiss, J. (2018). How to Build a Collaborative Text Editor Using Rails. Recuperado de  [https://www.aha.io/engineering/articles/how-to-build-collaborative-text-editor-rails](https://www.aha.io/engineering/articles/how-to-build-collaborative-text-editor-rails) Consultado el 20 de septiembre de 2020
 
 Wikipedia (s.f) . Collaborative real-time editor . Recuperado de [Collaborative real-time editor - Wikipedia](https://en.wikipedia.org/wiki/Collaborative_real-time_editor)  Consultado el 28 de septiembre de 2022
+
 Digital Freepen (2017).  A simple approach to building a real-time collaborative text editor. Recuperado de [A simple approach to building a real-time collaborative text editor - Digital Freepen](https://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html) Consultado el 28 de septiembre de 2022
