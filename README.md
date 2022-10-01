@@ -13,8 +13,8 @@
  ##### Profesor:
  Canaval Sánchez, Luis Martin
  ##### Integrantes:
-  Cristopher Elvs Morales Montero 
-  Aldo Jhair Gomez Lozano
+  Cristopher Elvs Morales Montero - 201820751
+  Aldo Jhair Gomez Lozano - 201822450
   ##### Septiembre - 2022
 
 Introducción:
